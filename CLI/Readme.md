@@ -1,4 +1,5 @@
-The .NET CLI (Command-Line Interface) is a powerful tool for building, running, and managing .NET applications efficiently. Here’s a list of 30 must-know commands to enhance your productivity:
+<h1>.NET CLI Commands</h1>
+The <b>.NET CLI (Command-Line Interface)</b> is a powerful tool for building, running, and managing .NET applications efficiently. Here’s a list of 30 must-know commands to enhance your productivity:
 
  1. ```dotnet new console```: Creates a new console application project.
  2. ```dotnet build```: Builds the project and generates the output (DLL or EXE).
