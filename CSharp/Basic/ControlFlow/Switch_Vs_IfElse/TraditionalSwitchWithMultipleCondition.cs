@@ -2,7 +2,6 @@ internal class TraditionalSwitchWithMultipleCondition
 {
     public int age{get;set;}
     public string category;
-
     public void GetAgeCategory(){
         switch (age)
         {

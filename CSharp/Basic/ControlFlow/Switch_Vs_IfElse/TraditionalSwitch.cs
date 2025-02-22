@@ -5,9 +5,7 @@ public class TraditionalSwitch{
     public void GetDayName(){
         switch (day)
         {
-            case 1:
-            dayName = "Saturday";
-            break;
+            
             case 2:
             dayName = "Sunday";
             break;

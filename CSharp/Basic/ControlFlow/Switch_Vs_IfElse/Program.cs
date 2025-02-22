@@ -8,13 +8,17 @@ internal class AgeClassification
     public void GetAgeCategory(){
         if(age <= 12){
             category = "Child";
-        }else if(age < 19){
+        }
+        else if(age < 19){
             category = "Teen";
-        }else if(age <= 30){        
+        }
+        else if(age <= 30){        
             category = "Young Adult";
-        }else if(age < 60){
+        }
+        else if(age < 60){
             category = "Adult";
-        }else{
+        }
+        else{
             category = "Senior";
         }
 
