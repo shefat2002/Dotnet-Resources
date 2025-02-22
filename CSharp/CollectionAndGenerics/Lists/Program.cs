@@ -1,6 +1,9 @@
-﻿List<string> list= new(){
-    "Rahim", "Karim","Alex","Jack","Joe", "Jabbar", "Abdulla", "Shefat","Bob", "Abc"
-};
+﻿// List<string> list= new(){
+//     "Rahim", "Karim","Alex","Jack","Joe", "Jabbar", "Abdulla", "Shefat","Bob", "Abc"
+// };
+
+//New List declaration style
+List<string> list = ["Rahim", "Karim","Alex","Jack","Joe", "Jabbar", "Abdulla", "Shefat","Bob", "Abc"];
 
 foreach (var item in list)
 {
