@@ -1,0 +1,15 @@
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\bin\Debug\net9.0\Class_vs_Struct.exe
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\bin\Debug\net9.0\Class_vs_Struct.deps.json
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\bin\Debug\net9.0\Class_vs_Struct.runtimeconfig.json
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\bin\Debug\net9.0\Class_vs_Struct.dll
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\bin\Debug\net9.0\Class_vs_Struct.pdb
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.AssemblyInfoInputs.cache
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.AssemblyInfo.cs
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.csproj.CoreCompileInputs.cache
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.sourcelink.json
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.dll
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\refint\Class_vs_Struct.dll
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.pdb
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\Class_vs_Struct.genruntimeconfig.cache
+d:\Dotnet-Resources\CSharp\OOP\Class_vs_Struct\obj\Debug\net9.0\ref\Class_vs_Struct.dll

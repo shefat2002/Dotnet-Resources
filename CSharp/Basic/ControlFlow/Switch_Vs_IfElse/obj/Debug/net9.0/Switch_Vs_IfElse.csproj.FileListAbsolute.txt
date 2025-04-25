@@ -1,0 +1,5 @@
+D:\Dotnet-Resources\CSharp\Basic\ControlFlow\Switch_Vs_IfElse\obj\Debug\net9.0\Switch_Vs_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet-Resources\CSharp\Basic\ControlFlow\Switch_Vs_IfElse\obj\Debug\net9.0\Switch_Vs_IfElse.AssemblyInfoInputs.cache
+D:\Dotnet-Resources\CSharp\Basic\ControlFlow\Switch_Vs_IfElse\obj\Debug\net9.0\Switch_Vs_IfElse.AssemblyInfo.cs
+D:\Dotnet-Resources\CSharp\Basic\ControlFlow\Switch_Vs_IfElse\obj\Debug\net9.0\Switch_Vs_IfElse.csproj.CoreCompileInputs.cache
+D:\Dotnet-Resources\CSharp\Basic\ControlFlow\Switch_Vs_IfElse\obj\Debug\net9.0\Switch_Vs_IfElse.sourcelink.json

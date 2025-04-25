@@ -1,0 +1,15 @@
+d:\Dotnet-Resources\bin\Debug\net9.0\Dotnet-Resources.exe
+d:\Dotnet-Resources\bin\Debug\net9.0\Dotnet-Resources.deps.json
+d:\Dotnet-Resources\bin\Debug\net9.0\Dotnet-Resources.runtimeconfig.json
+d:\Dotnet-Resources\bin\Debug\net9.0\Dotnet-Resources.dll
+d:\Dotnet-Resources\bin\Debug\net9.0\Dotnet-Resources.pdb
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.AssemblyInfoInputs.cache
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.AssemblyInfo.cs
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.csproj.CoreCompileInputs.cache
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.sourcelink.json
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.dll
+d:\Dotnet-Resources\obj\Debug\net9.0\refint\Dotnet-Resources.dll
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.pdb
+d:\Dotnet-Resources\obj\Debug\net9.0\Dotnet-Resources.genruntimeconfig.cache
+d:\Dotnet-Resources\obj\Debug\net9.0\ref\Dotnet-Resources.dll

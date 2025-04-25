@@ -1,0 +1,5 @@
+D:\Dotnet-Resources\CSharp\CollectionAndGenerics\Dictonary\obj\Debug\net9.0\Dictonary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet-Resources\CSharp\CollectionAndGenerics\Dictonary\obj\Debug\net9.0\Dictonary.AssemblyInfoInputs.cache
+D:\Dotnet-Resources\CSharp\CollectionAndGenerics\Dictonary\obj\Debug\net9.0\Dictonary.AssemblyInfo.cs
+D:\Dotnet-Resources\CSharp\CollectionAndGenerics\Dictonary\obj\Debug\net9.0\Dictonary.csproj.CoreCompileInputs.cache
+D:\Dotnet-Resources\CSharp\CollectionAndGenerics\Dictonary\obj\Debug\net9.0\Dictonary.sourcelink.json
