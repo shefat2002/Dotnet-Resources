@@ -17,7 +17,7 @@ A JWT consists of three parts separated by dots:
 
 ``` header.payload.signature ```
 
-![JWT Structure](https://jwt.io/img/jwt-diagram.png)
+![JWT Structure](jwt.jpg)
 
 ## Setup and Configuration
 
