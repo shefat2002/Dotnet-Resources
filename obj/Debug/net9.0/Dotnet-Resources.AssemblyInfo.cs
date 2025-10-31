@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dotnet-Resources")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634e470da7558f404cabc0d42a0e63b0c1846143")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20fb2ce2f6a2ee078eacc860011b39cc7aa83402")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dotnet-Resources")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dotnet-Resources")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
